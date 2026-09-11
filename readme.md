@@ -1,4 +1,4 @@
-# Large Language Models Generate Harmful Responses Using a Distinct Mechanism, Shared Across Harm Types
+# LLMs Generate Harmful Responses Using a Distinct Mechanism, Shared Across Harm Types
 
 This repository contains the code for B-TAP (Behavior-Targeted Attribution and Pruning) and for reproducing the experiments in the paper. B-TAP is an interpretability method for localizing and causally intervening on model parameters that are critical to a target behavior.
 
